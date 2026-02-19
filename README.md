@@ -1,4 +1,4 @@
-🖐️ Hand Catch Game
+#🖐️ Simple Hand Game
 
 A simple webcam-based game using OpenCV and MediaPipe where you catch a falling ball with your index finger.
 
