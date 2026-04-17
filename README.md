@@ -20,12 +20,12 @@ NumPy
 **Installation**
 
 git clone https://github.com/your-username/hand-catch-game.git
+
 cd hand-catch-game
+
 pip install opencv-python mediapipe numpy
+
 python main.py
-
-
-**#Make sure your webcam is connected.**
 
 **Possible Improvements**
 
