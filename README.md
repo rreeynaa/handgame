@@ -19,13 +19,13 @@ NumPy
 
 **Installation**
 
-git clone https://github.com/your-username/hand-catch-game.git
+```git clone https://github.com/your-username/hand-catch-game.git```
 
-cd hand-catch-game
+```cd hand-catch-game```
 
-pip install opencv-python mediapipe numpy
+```pip install opencv-python mediapipe numpy```
 
-python main.py
+```python main.py```
 
 **Possible Improvements**
 
