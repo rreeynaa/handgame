@@ -1,8 +1,8 @@
-**Simple Hand Game**
+# Simple Hand Game
 
 A simple webcam-based game using OpenCV and MediaPipe where you catch a falling ball with your index finger.
 
-**How It Works**
+## How It Works
 
 Your webcam tracks your hand.
 The index fingertip controls catching.
@@ -10,14 +10,14 @@ If your finger touches the falling ball → score increases.
 Missed balls reset automatically.
 Press Q to quit.
 
-**Tech Stack**
+## Tech Stack
 
 Python
 OpenCV
 MediaPipe
 NumPy
 
-**Installation**
+## Installation
 
 ```git clone https://github.com/your-username/hand-catch-game.git```
 
@@ -27,7 +27,7 @@ NumPy
 
 ```python main.py```
 
-**Possible Improvements**
+## Possible Improvements
 
 Add levels
 Increase speed over time
